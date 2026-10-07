@@ -1,5 +1,4 @@
 # CS3388 Assignment 6 - Unity Water Simulation
-# Brandon Nguyen - 251279702
 
 # Overview
 This project implements an interactive water simulation in Unity using a procedurally generated grid mesh, a custom water shader, four superposed Gerstner-style waves, a floating object that samples the same wave field on the CPU, and a user-controllable orbit camera. The goal was to preserve the main graphics ideas from the original OpenGL capstone while translating them into Unity systems such as C# mesh generation, ShaderLab/HLSL, scene setup, and runtime control.
